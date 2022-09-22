@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align= "center">Skills & Tools<h3>
+<h3>Skills & Tools<h3>
 
 <div align="center">
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> 
